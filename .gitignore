@@ -1,0 +1,9 @@
+# Editor temporaries #
+# ################## #
+.#*
+*~
+*#
+*.swp
+.ipynb_checkpoints/
+-
+._*
